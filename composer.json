@@ -20,7 +20,7 @@
         "guzzlehttp/guzzle": "^5.3.1|^6.2.1",
         "guzzlehttp/psr7": "^1.4.1",
         "guzzlehttp/promises": "~1.0",
-        "mtdowling/jmespath.php": "~2.2"
+        "mtdowling/jmespath.php": "~2.0"
     },
     "require-dev": {
         "ext-openssl": "*",
